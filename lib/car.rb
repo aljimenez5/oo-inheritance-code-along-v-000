@@ -7,6 +7,7 @@ class Car
   end
   
   def go 
-    return "VRRR"
+    return "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
+  end
   
 end
