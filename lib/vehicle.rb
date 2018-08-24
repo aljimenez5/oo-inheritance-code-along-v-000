@@ -1,5 +1,5 @@
 class Vehicle
   
   
-  def 
+   
 end
